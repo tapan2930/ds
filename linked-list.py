@@ -30,3 +30,11 @@ def ll_create(arr):
         head.next = node
         head = node
     return temp.next.next
+
+
+"""
+
+Use Case:  l1 = ll_Create([1,2,3,4,5,6,7,])
+Use Case:  ll_print(l1)
+
+"""
